@@ -86,6 +86,6 @@ revealjs_static_path = [
     "_static",
 ]
 revealjs_css_files = [
-    "revealjs4/plugin/highlight/zenburn.css",
+    "revealjs/plugin/highlight/zenburn.css",
     "css/title_uppercase.css",
 ]
