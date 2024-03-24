@@ -79,7 +79,7 @@ revealjs_script_conf = {
 revealjs_script_plugins = [
     {
         "name": "RevealHighlight",
-        "src": "revealjs4/plugin/highlight/highlight.js",
+        "src": "revealjs/plugin/highlight/highlight.js",
     },
 ]
 revealjs_static_path = [
