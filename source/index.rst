@@ -165,3 +165,7 @@ Excelの値
 ご清聴ありがとうございました
 ----------------------------
 
+.. figure:: thank-you-for-your-attention.*
+   :alt: AIが考えた「鹿児島焼酎を片手にPython in Excelを楽しむエンジニア」
+
+   AIが考えた「鹿児島焼酎を片手にPython in Excelを楽しむエンジニア」
