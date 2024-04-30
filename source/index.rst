@@ -141,8 +141,13 @@ Excelの値
 --------------------
 
 * データは「テーブル」にしておくと便利
-* ``xl("テーブル名[#すべて]", headers=True)`` でテーブルのデータを取得
-* ``sns.relplot(x="Month", y="Price", data=xl("テーブル1[#すべて]", headers=True), kind="line")`` でグラフを作成できる
+* 以下コードで `Seaborn <https://seaborn.pydata.org/>`_ を使ってグラフを作成できる
+
+.. revealjs-code-block:: python
+
+    sns.set(font="Meiryo")  # 日本語フォントを指定
+    df = xl("テーブル1[#すべて]", headers=True)
+    sns.relplot(x="月", y="価格", data=df, kind="line")
 
 （デモ）「コアライブラリ」とは
 ------------------------------
