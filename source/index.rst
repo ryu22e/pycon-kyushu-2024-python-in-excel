@@ -164,7 +164,12 @@ Excelの値
 （デモ）複数のセルにPythonコードを書く場合のテクニック
 ------------------------------------------------------
 
-Pythonコードの実行順は一番左のシート、一番上の行、一番左のセルから右に向かって順に実行される。
+Pythonコードは一番左のシートから以下の順序で実行される。
+
+.. figure:: _static/img/execution-order.*
+   :alt: Pythonコードの実行順
+
+   Pythonコードの実行順
 
 .. revealjs-break::
 
@@ -179,7 +184,7 @@ Pythonコードの実行順は一番左のシート、一番上の行、一番�
 ご清聴ありがとうございました
 ----------------------------
 
-.. figure:: thank-you-for-your-attention.*
+.. figure:: _static/img/thank-you-for-your-attention.*
    :alt: AIが考えた「鹿児島焼酎を片手にPython in Excelを楽しむエンジニア」
 
    AIが考えた「鹿児島焼酎を片手にPython in Excelを楽しむエンジニア」
