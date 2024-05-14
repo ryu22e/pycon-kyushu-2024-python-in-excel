@@ -35,6 +35,7 @@ release = "1.0"
 extensions = [
     "sphinx_revealjs",
     "sphinx_budoux",
+    "sphinxcontrib.video",
 ]
 budoux_target_tags = ["h1", "h2", "h3", "p"]
 
