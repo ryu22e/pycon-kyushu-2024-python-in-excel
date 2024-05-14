@@ -1,5 +1,5 @@
 Sphinx==7.3.7
-sphinx-revealjs==3.0.1
+sphinx-revealjs==3.0.2
 budoux==0.6.2
 beautifulsoup4==4.12.3
 sphinxcontrib-video==0.2.0
