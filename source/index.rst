@@ -161,6 +161,20 @@ Excelの値
 
 `Excel のオープンソース ライブラリと Python - Microsoft サポート <https://support.microsoft.com/ja-jp/office/excel-%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A8-python-c817c897-41db-40a1-b9f3-d5ffe6d1bf3e>`_ を参照。
 
+（デモ）Python in Excelについて学ぶためのリソース
+-------------------------------------------------
+
+* `Microsoft公式サイト（日本語） <https://support.microsoft.com/ja-jp/office/python-in-excel-%E3%81%AE%E6%A6%82%E8%A6%81-55643c2e-ff56-4168-b1ce-9428c8308545>`_
+* `Anacondaのチュートリアル動画（英語） <https://freelearning.anaconda.cloud/get-started-with-python-in-excel-course>`_
+* `Anacondaの公式ブログ（英語） <https://www.anaconda.com/resource-topic/python-in-excel>`_
+
+（デモ）Python in Excelでデータを扱うときのコツ
+-----------------------------------------------
+
+* セルに埋め込まれている元データを直接加工しない
+* 再利用がしにくくなるので
+* 加工はPythonのコードで行う
+
 （デモ）複数のセルにPythonコードを書く場合のテクニック
 ------------------------------------------------------
 
