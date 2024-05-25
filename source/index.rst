@@ -1,3 +1,6 @@
+:og:description: Python in Excelの概要と使い方について説明します。
+:og:image: _images/thank-you-for-your-attention.jpg
+
 #################################################################
 Excel + Pythonでデータ解析、集計が捗る！「Python in Excel」の紹介
 #################################################################
