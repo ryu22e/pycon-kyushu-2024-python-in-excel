@@ -1,6 +1,6 @@
 alabaster==0.7.16
 anyio==4.3.0
-Babel==2.14.0
+Babel==2.15.0
 beautifulsoup4==4.12.3
 budoux==0.6.2
 certifi==2024.2.2
