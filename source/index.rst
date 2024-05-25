@@ -23,7 +23,10 @@ Excel + Pythonでデータ解析、集計が捗る！「Python in Excel」の紹
 昨夜行ってきた店
 ----------------
 
-「 `立ち飲み屋Kiritsu（キリツ） <https://kiritsu-kagoshimachuoeki.owst.jp/>`_ 」は焼酎が安くていい店でした。
+.. figure:: _static/img/kiritsu.*
+   :alt: 立ち飲み屋Kiritsu（キリツ）
+
+   天文館の「 `立ち飲み屋Kiritsu（キリツ） <https://kiritsu-kagoshimachuoeki.owst.jp/>`_ 」は焼酎が安くていい店でした。
 
 今日話したいこと
 ----------------
