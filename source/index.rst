@@ -15,6 +15,7 @@ Excel + Pythonでデータ解析、集計が捗る！「Python in Excel」の紹
 --------
 
 * Ryuji Tsutsui @ryu22e
+* 神奈川県横浜市在住
 * `一般社団法人PyCon JP Association運営メンバー <https://www.pycon.jp/committee/members.html#ryuji-tsutsui>`_
 * Python歴は13年くらい（主にDjango）
 * Python Boot Camp、Shonan.py、GCPUG Shonanなどコミュニティ活動もしています
