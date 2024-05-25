@@ -17,6 +17,11 @@ Excel + Pythonでデータ解析、集計が捗る！「Python in Excel」の紹
 * Python Boot Camp、Shonan.py、GCPUG Shonanなどコミュニティ活動もしています
 * 著書（共著）：『 `Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ 』
 
+昨夜行ってきた店
+----------------
+
+「 `立ち飲み屋Kiritsu（キリツ） <https://kiritsu-kagoshimachuoeki.owst.jp/>`_ 」は焼酎が安くていい店でした。
+
 今日話したいこと
 ----------------
 
