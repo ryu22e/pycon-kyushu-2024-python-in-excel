@@ -42,6 +42,6 @@ sphinxcontrib-video==0.2.0
 sphinxext-opengraph==0.9.1
 starlette==0.37.2
 urllib3==2.2.2
-uvicorn==0.29.0
+uvicorn==0.30.1
 watchfiles==0.21.0
 websockets==12.0
