@@ -43,5 +43,5 @@ sphinxext-opengraph==0.9.1
 starlette==0.37.2
 urllib3==2.2.2
 uvicorn==0.29.0
-watchfiles==0.21.0
+watchfiles==0.23.0
 websockets==12.0
