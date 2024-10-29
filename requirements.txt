@@ -9,7 +9,7 @@ click==8.1.7
 colorama==0.4.6
 contourpy==1.2.1
 cycler==0.12.1
-docutils==0.20.1
+docutils==0.21.2
 fonttools==4.54.1
 h11==0.14.0
 idna==3.7
