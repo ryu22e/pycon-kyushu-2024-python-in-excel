@@ -40,7 +40,7 @@ sphinxcontrib-qthelp==1.0.7
 sphinxcontrib-serializinghtml==1.1.10
 sphinxcontrib-video==0.2.1
 sphinxext-opengraph==0.9.1
-starlette==0.40.0
+starlette==0.45.3
 urllib3==2.2.2
 uvicorn==0.34.0
 watchfiles==0.24.0
